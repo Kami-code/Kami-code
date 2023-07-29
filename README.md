@@ -13,10 +13,10 @@ View my [website](https://chenbao.tech) for more details.
 
 # News
 
-[2023/08] 🎉 I join CMU Robotics Institute as a graduate student.
+[2023/08] 🎉 I join [CMU Robotics Institute](https://www.ri.cmu.edu/) as a graduate student.
 
 
-[2023/07] 🎉 I win the 2nd place in all three tracks of ManiSkill2 Challenge.
+[2023/07] 🎉 I win the 2nd place in all three tracks of [ManiSkill2 Challenge](https://sapien.ucsd.edu/challenges/maniskill/).
 
 
 [2023/05] 🎉 One paper get accepted to CVPR2023.
