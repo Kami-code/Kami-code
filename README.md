@@ -2,7 +2,7 @@
 
 
 # Intro
-I am an undergraduate student at Shanghai Jiao Tong University, and I will join CMU in 2023 Fall. I am currently working as an intern supervised by Prof. [Xiaolong Wang](https://xiaolonw.github.io/index.html) at the University of California San Diego. I am also working with Prof. [Cewu Lu](https://www.mvig.org/), in MVIG Lab, Shanghai Jiao Tong University.
+I am a first-year master student in the Robotics Institute at Carnegie Mellon University, working with Prof.[Abhinav Gupta](http://www.cs.cmu.edu/~abhinavg/) on Continual Learning. I am also working as an intern supervised by Prof. [Xiaolong Wang](https://xiaolonw.github.io/index.html) at the University of California San Diego. Previously, I worked with Prof. [Cewu Lu](https://www.mvig.org/) and Dr. [Wenqiang Xu](https://scholar.google.com/citations?user=PdzO-4YAAAAJ) in MVIG Lab, Shanghai Jiao Tong University.
 
 My research interests include Robotics and Computer Vision, especially object manipulation, representation learning, and reinforcement learning.
 
