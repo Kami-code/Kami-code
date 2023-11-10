@@ -12,6 +12,8 @@ View my [website](https://chenbao.tech) for more details.
 
 
 # News
+[2023/11] 🎉 One paper wins the outstanding paper award at the Language Robotics workshop, CoRL 2023.
+
 
 [2023/08] 🎉 I join [CMU Robotics Institute](https://www.ri.cmu.edu/) as a graduate student.
 
@@ -19,10 +21,10 @@ View my [website](https://chenbao.tech) for more details.
 [2023/07] 🎉 I win the 2nd place in all three tracks of [ManiSkill2 Challenge](https://sapien.ucsd.edu/challenges/maniskill/).
 
 
-[2023/05] 🎉 One paper get accepted to CVPR2023.
+[2023/05] 🎉 One paper gets accepted to CVPR2023.
 
 
-[2022/09] 🎉 One paper get accepted to CoRL2022 (Oral).
+[2022/09] 🎉 One paper gets accepted to CoRL2022 (Oral).
 
 <!--
 **Kami-code/Kami-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
